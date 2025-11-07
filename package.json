@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s04puhl",
-  "description": "https://scrimba.com/learn-react-router-6-c06/~032",
+  "name": "Scrim-s04qcrj",
+  "description": "https://scrimba.com/learn-react-router-6-c06/~03l",
   "scripts": {
     "start": "vite",
     "dev": "vite",
@@ -10,7 +10,8 @@
   "dependencies": {
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-router-dom": "6.4.4",
+    "react-router-dom": "6.4.3",
+    "miragejs": "0.1.46",
     "vite": "latest"
   },
   "devDependencies": {
